@@ -1,7 +1,8 @@
 # pinkpong2D
 Game pertama saya menggunakan Unity2D
 
-> Sedikit cerita 😆
+### Fun Fact
+Sedikit cerita 😆
 Awalnya game ini masih tahap development, dikarenakan file projectnya hilang, jadi ga bisa lanjutin lagi. Makanya di push ke sini 😂
 
 # Cara Install
